@@ -1,4 +1,3 @@
-package checkedexception;
 
 import java.io.File;
 import java.io.FileReader;

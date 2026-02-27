@@ -1,4 +1,3 @@
-package throwthrows;
 
 class NegativeDimensionException extends Exception
 {

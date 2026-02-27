@@ -1,5 +1,3 @@
-package pkgfinally;
-
 public class Finally
 {
     static void meth1()throws Exception

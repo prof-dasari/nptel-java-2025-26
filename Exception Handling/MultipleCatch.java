@@ -1,5 +1,3 @@
-package multiplecatch;
-
 public class MultipleCatch {
 
     public static void main(String[] args) {

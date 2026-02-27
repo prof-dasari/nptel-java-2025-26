@@ -1,4 +1,3 @@
-package uncheckedexception;
 
 public class UncheckedException {
 
